@@ -1,0 +1,63 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+input[type=text], input[type=email], input[type=number], select {
+    width: 50%;
+    padding: 2% 2%;
+    margin: 1% 18%;
+    display: inline-block;
+    border: 1% solid #ccc;
+    border-radius: 1%;
+    box-sizing: border-box;
+    opacity: 1;
+    
+
+}
+input[type=number]{
+    margin: 0.5% 0.5%;
+
+}
+
+
+input[type=submit], input[type=reset] {
+    width: 40%;
+    background-color: #1ac6ff;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover , input[type=reset]:hover {
+    /*background-color: #007399;*/
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 15%;
+
+    
+    /*background-color: #0086b3;*/
+    background-color: #ffb3b3;
+    padding: 2%;
+    margin-left: 8%;
+    margin-right: 55%;
+    
+
+
+}
+.text_class{
+    width:75%;
+    align-content: center;
+}
+.name_box{    
+margin-right: 50%;
+
+}
+
+body{
+   /* background-image: url("web-development-minimalism-bl-1600x900.jpg");
+width : 100%*/
+ background-color: #005775;
+}
